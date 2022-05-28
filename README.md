@@ -1,6 +1,7 @@
 # face-recognition-device-security
 
 INTRODUCTION
+
 This is a project on Face Recognition done for the Microsoft Engage Program. The purpose of this desktop application is to provide device security and prevent anyone from using the laptop and tampering with it. This application has been made using Python and the OpenCV technology.
 
 The application prevents anyone from using the laptop who doesn't have access to it. If the owner or anyone with access has left the laptop unattended and someone tries to interfer with it, then the app will save the photo of the intruder to MongoDB database in 2 seconds and in 5 seconds it will send a notification on email, and will sign out of windows, locking it so only people with the password can continue to use it.
