@@ -43,6 +43,7 @@ FEATURES
 
 FUTURE GOALS
 
-The app in future can be used at a big scale. The photo that was saved to the database can be put in the company's or university's or school's database to check and know the details of the intruder.
+The app in future can be used at a big scale. The photo that was saved to the database can be put in the company's or university's or school's database to check and know the details of the intruder. 
+If ever, the app starts malfunctioning and the recognition fails by any chance then there should be a password with which the app knows the person using the laptop is not an intruder and has access to it.
 
 
