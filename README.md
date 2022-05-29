@@ -47,6 +47,8 @@ FUTURE GOALS
 
 The app in future can be used at a big scale. The photo that was saved to the database can be put in the company's or university's or school's database to check and know the details of the intruder. 
 
+A beep can be added that if the intruder commes then the laptop starts beeping so that everyone around knows that the laptop/computer is being interefered with. I tried adding it but the code needs to be altered a little for it to work.
+
 If ever, the app starts malfunctioning and the recognition fails by any chance then there should be a password with which the app knows the person using the laptop is not an intruder and has access to it.
 
 
