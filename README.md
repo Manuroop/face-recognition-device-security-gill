@@ -52,6 +52,7 @@ FEATURES
 - It sends an email notification after 5 seconds.
 - It locks and signs out of windows after 5 seconds.
 - There is a button in the app from where all the photos of the intruders can be downloaded from the MongoDB database.
+- You can give access to multiple people who can use the laptop.
 
 - The apps UI/UX is completely responsive, all contents inside the app resize themselves according to windows size.
 - Most libraries are built in making it less resource consuming.
