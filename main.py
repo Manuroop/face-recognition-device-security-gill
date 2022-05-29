@@ -22,6 +22,7 @@ import gridfs
 from PIL import Image
 import io
 from winsound import Beep
+import ctypes
 
 
 encoded_data = []
@@ -185,7 +186,7 @@ class MainWindow(QMainWindow):
                 self.temp_coords = ''
                 self.notification_sent = False
                 self.start_time = time.time()
-                os.system("shutdown -l")
+                ctypes.windll.user32.LockWorkStation()
 
         else:
             self.start_time = time.time()
