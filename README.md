@@ -1,5 +1,7 @@
 # face-recognition-device-security
 
+*WINDOWS SIGNS OUT IN THE BRANCH main*
+
 INTRODUCTION
 
 This is a project on Face Recognition done for the Microsoft Engage Program. The purpose of this desktop application is to provide device security and prevent anyone from using the laptop and tampering with it. This application has been made using Python and the OpenCV technology.
