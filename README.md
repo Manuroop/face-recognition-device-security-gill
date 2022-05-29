@@ -26,6 +26,7 @@ This app has been made on Python version 3.8.1.
   pip install opencv-python
   pip install face_recognition
 - In info.txt, change the email from 'manuroop678@gmail.com' to your email where you want to recieve the notification. Don't change the manuroop6789@gmail.com as it contains the database and collections in MongoDB.
+- If you have multiple cameras on your device then you can change your camera number in camera_number.txt from 0 to whatever number you want.
 
 
 The code should run perfectly after this.
