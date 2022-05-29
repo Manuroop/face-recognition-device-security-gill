@@ -1,5 +1,6 @@
 # face-recognition-device-security
 
+*The repo contains two branches, in main branch the code signs out of windows where the processes shut down and in main-2 branch the code just locks the windows and no processes shut down. Locking windows is better as the processes do not shut down but the intruder is locked out of the system*
 *WINDOWS SIGNS OUT IN THE BRANCH main*
 
 INTRODUCTION
