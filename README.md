@@ -17,16 +17,27 @@ This app has been made on Python version 3.8.1.
 - Download and install Visual Studio with Desktop Development in C++ (required to use and install Face Recognition libraries), Visual Studio Code (with the Python extension) or any other IDE you are comfortable with.
 
 - Now, in Python you need to install certain libraries/modules using these commands in cmd or vs code or powershell, wherever you are comfortable.
+  
   pip install pyqt5
+  
   pip install pyside2
+  
   pip install cmake
+  
   pip install dlib
+  
   pip install yagmail
+  
   pip install pillow
+  
   pip install pymongo
+  
   pip install dnspython
+  
   pip install opencv-python
+  
   pip install face_recognition
+
 - In info.txt, change the email from 'manuroop678@gmail.com' to your email where you want to recieve the notification. Don't change the manuroop6789@gmail.com as it contains the database and collections in MongoDB.
 - If you have multiple cameras on your device then you can change your camera number in camera_number.txt from 0 to whatever number you want.
 
